@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PAISANO SEGURO</string>
+    <string name="title_activity_paseproteccion">PROTECCIÓN</string>
+    
+    <!--nombres botones-->
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="Proteccion_btn_inicio">Inicio</string>
+    <string name="Proteccion_btn_30usd_proteccion">30 USD Protección</string>
+    <!--+++++++++++++++-->
+</resources>
